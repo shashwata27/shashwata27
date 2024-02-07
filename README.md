@@ -1,5 +1,5 @@
 # 💫 About Me:
-Polyglot Developer, skilled in analyzing business needs and<br><br>translating them into solutions through object-oriented,domain-driven design.<br><br>With 2+ years of experience able to align, and drive small teams through cultivation.<br><br>Focused, results-driven & practitioner of clean code & Test-Driven Development.
+Polyglot Developer, skilled in analyzing business needs and translating them into solutions through object-oriented,domain-driven design.<br><br>With 2+ years of experience able to align, and drive small teams through cultivation. Focused, results-driven & practitioner of clean code & Test-Driven Development.
 
 
 ## 🌐 Socials:
